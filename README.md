@@ -72,7 +72,7 @@ If you want to view the source code locally or modify the design engine for your
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ke1thdev/ACT02-Streamlit_Multipage_App.git
+   git clone https://github.com/valenzuelarena94-gif/act2-miltipage.git
    cd ACT02-Streamlit_Multipage_App
    ```
 
