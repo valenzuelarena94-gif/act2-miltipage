@@ -21,7 +21,7 @@ projects = [
         "name": "GitHub Profile",
         "cat": "Profile",
         "desc": "Visit the GitHub account to see repositories, projects, and updates.",
-        "link": "https://github.com/",
+        "link": "https://github.com/valenzuelarena94-gif",
         "icon": "github",
     },
 ]
